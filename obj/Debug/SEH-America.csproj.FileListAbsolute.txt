@@ -1,0 +1,15 @@
+C:\Users\antoniocruz1\source\repos\SEH-America\bin\Debug\SEH-America.exe.config
+C:\Users\antoniocruz1\source\repos\SEH-America\bin\Debug\SEH-America.exe
+C:\Users\antoniocruz1\source\repos\SEH-America\bin\Debug\SEH-America.pdb
+C:\Users\antoniocruz1\source\repos\SEH-America\obj\Debug\SEH-America.csprojAssemblyReference.cache
+C:\Users\antoniocruz1\source\repos\SEH-America\obj\Debug\MainWindow.g.cs
+C:\Users\antoniocruz1\source\repos\SEH-America\obj\Debug\App.g.cs
+C:\Users\antoniocruz1\source\repos\SEH-America\obj\Debug\SEH-America_MarkupCompile.cache
+C:\Users\antoniocruz1\source\repos\SEH-America\obj\Debug\SEH-America_MarkupCompile.lref
+C:\Users\antoniocruz1\source\repos\SEH-America\obj\Debug\MainWindow.baml
+C:\Users\antoniocruz1\source\repos\SEH-America\obj\Debug\SEH-America.g.resources
+C:\Users\antoniocruz1\source\repos\SEH-America\obj\Debug\SEH_America.Properties.Resources.resources
+C:\Users\antoniocruz1\source\repos\SEH-America\obj\Debug\SEH-America.csproj.GenerateResource.cache
+C:\Users\antoniocruz1\source\repos\SEH-America\obj\Debug\SEH-America.csproj.CoreCompileInputs.cache
+C:\Users\antoniocruz1\source\repos\SEH-America\obj\Debug\SEH-America.exe
+C:\Users\antoniocruz1\source\repos\SEH-America\obj\Debug\SEH-America.pdb
