@@ -9,12 +9,18 @@
     <WrapPanel Orientation="Vertical">
         <StackPanel Orientation="Horizontal">
             <Label>Title</Label>
-            <TextBox Name="imageTitle" Width="150" Height="20">Here are some words</TextBox>
+            <TextBox Name="imageTitle" Width="150" Height="20">Search by Title</TextBox>
         </StackPanel>
         <StackPanel Orientation="Horizontal">
             <Label>Image Text</Label>
-            <TextBox Name="imageText" Width="150" Height="20">Here are some words</TextBox>
+            <TextBox Name="imageText" Width="150" Height="20">Search by Text</TextBox>
         </StackPanel>
         <Button Name="btnSubmit" Content="Submit" Margin="60 10" />
+
+		<Grid Name="outPut">
+			<ListBoxItem>
+				Images would show here
+			</ListBoxItem>
+		</Grid>
     </WrapPanel>
 </Window>
