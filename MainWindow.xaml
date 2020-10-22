@@ -8,12 +8,13 @@
         Title="MainWindow" Height="450" Width="800">
     <WrapPanel Orientation="Vertical">
         <StackPanel Orientation="Horizontal">
-            <Label>Some Field</Label>
+            <Label>Title</Label>
             <TextBox Name="imageTitle" Width="150" Height="20">Here are some words</TextBox>
         </StackPanel>
         <StackPanel Orientation="Horizontal">
-            <Label>Some Field</Label>
+            <Label>Image Text</Label>
             <TextBox Name="imageText" Width="150" Height="20">Here are some words</TextBox>
         </StackPanel>
+        <Button Name="btnSubmit" Content="Submit" Margin="60 10" />
     </WrapPanel>
 </Window>
